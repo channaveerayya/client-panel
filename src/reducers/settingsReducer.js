@@ -9,7 +9,7 @@ const initialState = {
 	disableBalanceOnEdit: false,
 	allowRegistration: false
 };
-export default function(state = initialState, action) {
+export default function (state = initialState, action) {
 	switch (action.type) {
 		case DISABLE_BALANCE_ON_ADD:
 			return {
