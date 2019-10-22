@@ -1,0 +1,10 @@
+{
+    "typescript.implementationsCodeLens.enabled": true,
+    "html.format.indentInnerHtml": true,
+    "workbench.quickOpen.preserveInput": true,
+    "typescript.format.insertSpaceAfterTypeAssertion": true,
+    "html.format.indentHandlebars": true,
+    "prettier.useTabs": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+}
