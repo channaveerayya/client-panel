@@ -78,7 +78,7 @@ class ClientDetails extends Component {
 						<div className="col-md-6">
 							<div className="btn-group float-right">
 								<Link
-									to={`/client/edite/${client.id}`}
+									to={`/client/edit/${client.id}`}
 									className="btn btn-dark"
 								>
 									Edit
